@@ -1,0 +1,27 @@
+body {
+    background-color: slategrey;
+}
+.startModal {
+    border: 1px black solid;
+    text-align: center;
+    margin: 15% 15%;
+    padding: 8%;
+}
+
+#timer {
+    margin: 2%;
+}
+
+#words {
+    margin: 2% auto;
+    border: 1px solid black;
+    padding: 2%;
+}
+
+.start {
+    text-decoration: underline;
+}
+
+.hide {
+    display: none;
+}
